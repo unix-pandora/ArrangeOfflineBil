@@ -14,6 +14,6 @@ Cope with the videos from bilibili computer client. Those videos had downloaded 
 
 - Location of parameter settings: `parameters.py`
 
-## Hinder
+## Pertain
 
-megeia9-unix
+megeia.9-unix
