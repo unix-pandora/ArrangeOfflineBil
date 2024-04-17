@@ -13,3 +13,7 @@ Cope with the videos from bilibili computer client. Those videos had downloaded 
 - Viewing documents on terminal: `python dominant.py -h`
 
 - Location of parameter settings: `parameters.py`
+
+## Hinder
+
+megeia9-unix
